@@ -38,7 +38,6 @@ A full-stack web application that allows users to submit ratings for stores regi
 - **Node.js** - Runtime environment
 - **Express.js** - Web framework
 - **MySQL** - Relational database
-- **JWT** - Authentication
 - **Bcrypt** - Password hashing
 
 ## 📋 Prerequisites
@@ -252,7 +251,6 @@ store-rating-system/
 ## 🔒 Security Features
 
 - Password hashing using bcrypt
-- JWT-based authentication
 - Role-based access control
 - Protected API routes
 - Input validation on both frontend and backend
